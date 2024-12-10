@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Homepage.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Adminlogin.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/Adminlogin.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Adminmenu.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Addpatient.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/Addpatient.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/Patientlist.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Adddoctor.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/Adddoctor.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/Doctorlist.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Userregis.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/Userregister.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Userlogin.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/Userlogin.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Usermenu.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Bookappointment.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/Bookappointment.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/Appointmentlist.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/Logout.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/index.html</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Feedback.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/abc.css</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/About.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Deletedoctor.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/DeleteDoctor.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Deletepatient.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/DeletePatient.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Rescheduleappointment.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/SearchAppointment.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/src/java/UpdateAppointment.java</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Home.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Admindashboard.jsp</file>
+            <file>file:/C:/Users/divya/OneDrive/Documents/NetBeansProjects/Hospital_Management_System_SVVV/web/Userdashboard.jsp</file>
+        </group>
+    </open-files>
+</project-private>
